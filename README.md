@@ -1,6 +1,5 @@
-# Phone_dialer
- 
-# Phone Dialer App
+
+ # Phone Dialer App
 
 ## Overview
 The **Phone Dialer App** is a fully functional dialer application built using **Kotlin** and **Jetpack Compose** in **Android Studio**. It utilizes **Broadcast Receiver** and **Services** to manage calls effectively and can be set as the **default phone app** on Android devices. The app supports a **minimum SDK of 30**.
